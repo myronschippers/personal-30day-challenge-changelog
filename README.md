@@ -28,3 +28,8 @@
 ### Friday, November 8, 2019
 
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
+
+
+### Saturday, November 9, 2019
+
+- Missed it :(
