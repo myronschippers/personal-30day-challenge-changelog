@@ -44,4 +44,5 @@
 ### Monday, November 11, 2019
 
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
+- Started a [Python code repo](https://github.com/myronschippers/training-track-python) to save training code
 - Continue drafting an article on setting up a full-stack JavaScript application
