@@ -39,3 +39,9 @@
 
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
 - Began drafting an article on setting up a full-stack JavaScript application
+
+
+### Monday, November 11, 2019
+
+- Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
+- Continue drafting an article on setting up a full-stack JavaScript application
