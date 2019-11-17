@@ -72,3 +72,9 @@
 ### Saturday, November 16, 2019
 
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
+
+
+### Sunday, November 17, 2019
+
+- Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
+- Completing an advanced completion of the [Color Blocks](https://github.com/myronschippers/advanced-color-blocks) exercise 
