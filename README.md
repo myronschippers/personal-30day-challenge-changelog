@@ -91,3 +91,8 @@
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
 - Updated [Python code repo](https://github.com/myronschippers/training-track-python) with the code from the shopping list exercise
 - Altering the documentation to be more accurate for the [Advanced Color Blocks](https://github.com/myronschippers/advanced-color-blocks) exercise
+
+
+### Wednesday, November 20, 2019
+
+- Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
