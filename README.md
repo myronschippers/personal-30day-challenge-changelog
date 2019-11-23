@@ -102,5 +102,12 @@
 
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-### Monday, November 18, 2019
 
+
 ### Friday, November 22, 2019
+
+- Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
+
+
+### Saturday, November 23, 2019
+
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
