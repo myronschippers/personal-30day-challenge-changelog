@@ -128,3 +128,4 @@
 ### Tuesday, November 26, 2019
 
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
+- Updated [Python code repo](https://github.com/myronschippers/training-track-python) with the code from the packing exercise
