@@ -123,3 +123,8 @@
 
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
 - Continuing draft of article for medium on setting up a fullstack application
+
+
+### Tuesday, November 26, 2019
+
+- Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
