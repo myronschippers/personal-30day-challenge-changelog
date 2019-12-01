@@ -150,3 +150,8 @@
 
 - Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
 - Updated [Python code repo](https://github.com/myronschippers/training-track-python) with sequence exercise code
+
+
+### Sunday, December 1, 2019
+
+- Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
