@@ -1,4 +1,4 @@
-# November Change Logs
+# November Change Log
 
 
 ## Monday, November 4, 2019
