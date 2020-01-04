@@ -14,3 +14,8 @@
 ## Friday, January 3, 2020
 
 - Working on [Kantrack](https://github.com/macypruitt/group-project-kanges.git) Deployment
+
+
+## Saturday, January 4, 2020
+
+- Working Through the [TeamTreeHouse, Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
