@@ -9,3 +9,8 @@
 ## Thursday, January 2, 2020
 
 - Working on [Kantrack](https://github.com/macypruitt/group-project-kanges.git) Deployment
+
+
+## Friday, January 3, 2020
+
+- Working on [Kantrack](https://github.com/macypruitt/group-project-kanges.git) Deployment
